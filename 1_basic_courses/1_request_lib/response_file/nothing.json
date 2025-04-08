@@ -1,0 +1,20 @@
+{
+    "args": {},
+    "data": "",
+    "files": {},
+    "form": {
+        "input": "nothing"
+    },
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate",
+        "Content-Length": "13",
+        "Content-Type": "application/x-www-form-urlencoded",
+        "Host": "httpbin.org",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "X-Amzn-Trace-Id": "Root=1-67f48cb1-0f7f737b66aa8c62278cf8bd"
+    },
+    "json": null,
+    "origin": "210.152.87.239",
+    "url": "https://httpbin.org/post"
+}
