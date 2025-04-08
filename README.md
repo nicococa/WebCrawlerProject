@@ -8,6 +8,7 @@
 
 - 进入项目
 `cd WebCrawlerProject`
+- 让脚本可执行 `chmod +x setup_env.sh`
 - 执行初始化脚本 `./setup_env.sh` 
 - 激活开发环境 `source venv/bin/activate`
 - 运行程序 `python3 main.py`
