@@ -17,6 +17,8 @@ if __name__ == '__main__':
     # r = tree.xpath('/html//p')
 
     # 找到所有的div元素，其中他的class名为song
-    r = tree.xpath('//div[@class="song"]')
+    # r = tree.xpath('//div[@class="song"]')
 
+    # 找到所有的a元素，其中它父亲为div且class名为song
+    r = tree.xpath('//div[@class="song"]/a')
     print(r)
