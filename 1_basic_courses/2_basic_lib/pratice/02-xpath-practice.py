@@ -1,6 +1,8 @@
 import requests
 from lxml import etree
 
+# 爬取的fake agents
+
 if __name__ == '__main__':
     # UA伪装
     headers = {

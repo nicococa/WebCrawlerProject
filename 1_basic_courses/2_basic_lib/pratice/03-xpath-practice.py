@@ -4,6 +4,8 @@ import requests
 import os
 from urllib.parse import urljoin
 
+# 爬取的4k图片网
+
 if __name__ == '__main__':
     # 这个很重要，需要复制全部header，需要网站是在发送get请求的header
     cookies = {
